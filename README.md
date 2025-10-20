@@ -6,6 +6,8 @@ checkimage
 
 本项目是一个图片鉴黄`api`接口，支持`jpg`、`png`、`jpeg`格式文件，参考[nsfwjs][1]。
 
+在线项目：https://elysiatools.com/en/tools/nsfw-image-detector
+
 安装步骤
 ---------------
 
